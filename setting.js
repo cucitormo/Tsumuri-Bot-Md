@@ -6,13 +6,13 @@ global.baileys = require('@whiskeysockets/baileys')
 global.usePairingCode = true
 //—————「 Set Nama Own & Bot 」—————//
 global.ownername = 'luhungch' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.owner = ['6282328190003'] // ubah aja pake nomor lu, Jika mau nambah ['628xxx','628xxx']
-global.ownerno1 = '6282328190003'
+global.owner = ['6285664221805'] // ubah aja pake nomor lu, Jika mau nambah ['628xxx','628xxx']
+global.ownerno1 = '6285664221805'
 global.botname = 'Tsumuri-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
 global.prefa = ['','!','.',',','🐤','🗿']
 global.sessionName = 'Tsusession' //Gausah Juga
 global.idchannel = '120363295629217013@newsletter'
-global.linkgc = 'https://chat.whatsapp.com/IceuWzpG17NFXPzx6hgNNX'
+global.linkgc = 'https://chat.whatsapp.com/FnKiKzEHjs8J9d1F5akV5D'
 global.gcbuyer = "-"
 global.thumbnail = `https://i.ibb.co.com/QmsxnsJ/Rezz.png`
 global.thumbnail2 = `https://i.ibb.co.com/G3tLg7J/logo-ts23-CB8-DBAA.png`
@@ -37,9 +37,9 @@ global.egg = "15"
 global.loc = "1"
 
 //Send Pay
-global.dana = "085643516329"
+global.dana = "085664221805"
 global.ovo = "-"
-global.gopay = "085643516329"
+global.gopay = "085664221805"
 global.qris = "-"
 
 //limit, balance & rpg
